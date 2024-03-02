@@ -7,19 +7,40 @@ namespace DuAnNhom
             InitializeComponent();
         }
 
+        private void openChildForm(Form childForm)
+        {
+            panel.Controls.Clear(); ;
+            panel.Visible = true;
+            childForm.TopLevel = false;
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+            panel.Controls.Add(childForm);
+            panel.Size = childForm.Size;
+            childForm.Show();
+        }
+        private void contactToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form contactfrm = new contact();
+            openChildForm(contactfrm);
+        }
+
         private void homeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            //panel.Visible = false;
+            home homefrm = new home();
+            openChildForm(homefrm);
         }
 
-        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        private void aboutUsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Form aboutUsfrm = new aboutUS();
+            openChildForm(aboutUsfrm);
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-
+            home homefrm = new home();
+            openChildForm(homefrm);
         }
     }
 }

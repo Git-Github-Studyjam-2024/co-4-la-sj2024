@@ -16,3 +16,6 @@ D:\Git\co4la-sj2024\DuAnNhom\DuAnNhom\obj\Debug\net7.0-windows\refint\DuAnNhom.d
 D:\Git\co4la-sj2024\DuAnNhom\DuAnNhom\obj\Debug\net7.0-windows\DuAnNhom.pdb
 D:\Git\co4la-sj2024\DuAnNhom\DuAnNhom\obj\Debug\net7.0-windows\DuAnNhom.genruntimeconfig.cache
 D:\Git\co4la-sj2024\DuAnNhom\DuAnNhom\obj\Debug\net7.0-windows\ref\DuAnNhom.dll
+D:\Git\co4la-sj2024\DuAnNhom\DuAnNhom\obj\Debug\net7.0-windows\DuAnNhom.aboutUS.resources
+D:\Git\co4la-sj2024\DuAnNhom\DuAnNhom\obj\Debug\net7.0-windows\DuAnNhom.contact.resources
+D:\Git\co4la-sj2024\DuAnNhom\DuAnNhom\obj\Debug\net7.0-windows\DuAnNhom.home.resources
