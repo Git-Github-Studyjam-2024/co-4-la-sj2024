@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.homeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -36,9 +37,11 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.panel = new System.Windows.Forms.Panel();
+            this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -52,7 +55,7 @@
             this.homeToolStripMenuItem,
             this.aboutUsToolStripMenuItem,
             this.contactToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(685, 12);
+            this.menuStrip1.Location = new System.Drawing.Point(700, 12);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(535, 102);
             this.menuStrip1.TabIndex = 0;
@@ -104,15 +107,19 @@
             this.groupBox1.Controls.Add(this.menuStrip1);
             this.groupBox1.Location = new System.Drawing.Point(4, -10);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1160, 119);
+            this.groupBox1.Size = new System.Drawing.Size(1190, 119);
             this.groupBox1.TabIndex = 5;
             this.groupBox1.TabStop = false;
             // 
             // panel
             // 
+            this.panel.AutoScroll = true;
+            this.panel.AutoScrollMinSize = new System.Drawing.Size(50, 50);
+            this.panel.AutoSize = true;
+            this.panel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel.Location = new System.Drawing.Point(5, 111);
             this.panel.Name = "panel";
-            this.panel.Size = new System.Drawing.Size(160, 131);
+            this.panel.Size = new System.Drawing.Size(1159, 546);
             this.panel.TabIndex = 6;
             this.panel.Visible = false;
             // 
@@ -120,18 +127,21 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1160, 637);
+            this.ClientSize = new System.Drawing.Size(1188, 658);
             this.Controls.Add(this.panel);
             this.Controls.Add(this.groupBox1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Trang chủ";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -144,5 +154,6 @@
         private PictureBox pictureBox1;
         private GroupBox groupBox1;
         private Panel panel;
+        private BindingSource bindingSource1;
     }
 }
