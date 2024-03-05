@@ -5,7 +5,9 @@ namespace DuAnNhom
         public Form1()
         {
             InitializeComponent();
+
         }
+
 
         private void openChildForm(Form childForm)
         {
@@ -42,5 +44,6 @@ namespace DuAnNhom
             home homefrm = new home();
             openChildForm(homefrm);
         }
+
     }
 }
