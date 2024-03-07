@@ -29,656 +29,659 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(aboutUS));
-            this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.groupBox6 = new System.Windows.Forms.GroupBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.groupBox7 = new System.Windows.Forms.GroupBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.groupBox8 = new System.Windows.Forms.GroupBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.groupBox17 = new System.Windows.Forms.GroupBox();
-            this.groupBox18 = new System.Windows.Forms.GroupBox();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.groupBox19 = new System.Windows.Forms.GroupBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
-            this.groupBox20 = new System.Windows.Forms.GroupBox();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.groupBox9 = new System.Windows.Forms.GroupBox();
-            this.groupBox10 = new System.Windows.Forms.GroupBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.groupBox11 = new System.Windows.Forms.GroupBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.groupBox12 = new System.Windows.Forms.GroupBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.groupBox13 = new System.Windows.Forms.GroupBox();
-            this.groupBox14 = new System.Windows.Forms.GroupBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.groupBox15 = new System.Windows.Forms.GroupBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.groupBox16 = new System.Windows.Forms.GroupBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.groupBox1.SuspendLayout();
-            this.groupBox4.SuspendLayout();
-            this.groupBox3.SuspendLayout();
-            this.groupBox2.SuspendLayout();
-            this.groupBox5.SuspendLayout();
-            this.groupBox6.SuspendLayout();
-            this.groupBox7.SuspendLayout();
-            this.groupBox8.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            this.groupBox17.SuspendLayout();
-            this.groupBox18.SuspendLayout();
-            this.groupBox19.SuspendLayout();
-            this.groupBox20.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            this.groupBox9.SuspendLayout();
-            this.groupBox10.SuspendLayout();
-            this.groupBox11.SuspendLayout();
-            this.groupBox12.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            this.groupBox13.SuspendLayout();
-            this.groupBox14.SuspendLayout();
-            this.groupBox15.SuspendLayout();
-            this.groupBox16.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            this.SuspendLayout();
+            label1 = new Label();
+            pictureBox1 = new PictureBox();
+            groupBox1 = new GroupBox();
+            groupBox4 = new GroupBox();
+            textBox3 = new TextBox();
+            groupBox3 = new GroupBox();
+            textBox2 = new TextBox();
+            groupBox2 = new GroupBox();
+            textBox1 = new TextBox();
+            groupBox5 = new GroupBox();
+            groupBox6 = new GroupBox();
+            textBox4 = new TextBox();
+            groupBox7 = new GroupBox();
+            textBox5 = new TextBox();
+            groupBox8 = new GroupBox();
+            textBox6 = new TextBox();
+            pictureBox2 = new PictureBox();
+            groupBox17 = new GroupBox();
+            groupBox18 = new GroupBox();
+            textBox13 = new TextBox();
+            groupBox19 = new GroupBox();
+            textBox14 = new TextBox();
+            groupBox20 = new GroupBox();
+            textBox15 = new TextBox();
+            pictureBox5 = new PictureBox();
+            groupBox9 = new GroupBox();
+            groupBox10 = new GroupBox();
+            textBox7 = new TextBox();
+            groupBox11 = new GroupBox();
+            textBox8 = new TextBox();
+            groupBox12 = new GroupBox();
+            textBox9 = new TextBox();
+            pictureBox3 = new PictureBox();
+            groupBox13 = new GroupBox();
+            groupBox14 = new GroupBox();
+            textBox10 = new TextBox();
+            groupBox15 = new GroupBox();
+            textBox11 = new TextBox();
+            groupBox16 = new GroupBox();
+            textBox12 = new TextBox();
+            pictureBox4 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            groupBox1.SuspendLayout();
+            groupBox4.SuspendLayout();
+            groupBox3.SuspendLayout();
+            groupBox2.SuspendLayout();
+            groupBox5.SuspendLayout();
+            groupBox6.SuspendLayout();
+            groupBox7.SuspendLayout();
+            groupBox8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            groupBox17.SuspendLayout();
+            groupBox18.SuspendLayout();
+            groupBox19.SuspendLayout();
+            groupBox20.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
+            groupBox9.SuspendLayout();
+            groupBox10.SuspendLayout();
+            groupBox11.SuspendLayout();
+            groupBox12.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
+            groupBox13.SuspendLayout();
+            groupBox14.SuspendLayout();
+            groupBox15.SuspendLayout();
+            groupBox16.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
+            SuspendLayout();
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.Blue;
-            this.label1.Location = new System.Drawing.Point(393, 12);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(412, 54);
-            this.label1.TabIndex = 15;
-            this.label1.Text = "Thông tin cá nhân";
+            label1.AutoSize = true;
+            label1.Font = new Font("Microsoft Sans Serif", 27.75F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.Blue;
+            label1.Location = new Point(393, 12);
+            label1.Name = "label1";
+            label1.Size = new Size(412, 54);
+            label1.TabIndex = 15;
+            label1.Text = "Thông tin cá nhân";
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(0, 29);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(279, 367);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 14;
-            this.pictureBox1.TabStop = false;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(0, 29);
+            pictureBox1.Margin = new Padding(3, 4, 3, 4);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(279, 367);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 14;
+            pictureBox1.TabStop = false;
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.White;
-            this.groupBox1.Controls.Add(this.groupBox4);
-            this.groupBox1.Controls.Add(this.groupBox3);
-            this.groupBox1.Controls.Add(this.groupBox2);
-            this.groupBox1.Controls.Add(this.pictureBox1);
-            this.groupBox1.Location = new System.Drawing.Point(14, 95);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox1.Size = new System.Drawing.Size(562, 404);
-            this.groupBox1.TabIndex = 16;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Trưởng nhóm";
+            groupBox1.BackColor = Color.White;
+            groupBox1.Controls.Add(groupBox4);
+            groupBox1.Controls.Add(groupBox3);
+            groupBox1.Controls.Add(groupBox2);
+            groupBox1.Controls.Add(pictureBox1);
+            groupBox1.Location = new Point(14, 95);
+            groupBox1.Margin = new Padding(3, 4, 3, 4);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Padding = new Padding(3, 4, 3, 4);
+            groupBox1.Size = new Size(562, 404);
+            groupBox1.TabIndex = 16;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Trưởng nhóm";
             // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.textBox3);
-            this.groupBox4.Location = new System.Drawing.Point(302, 315);
-            this.groupBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox4.Size = new System.Drawing.Size(229, 63);
-            this.groupBox4.TabIndex = 16;
-            this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "Facebook";
+            groupBox4.Controls.Add(textBox3);
+            groupBox4.Location = new Point(302, 315);
+            groupBox4.Margin = new Padding(3, 4, 3, 4);
+            groupBox4.Name = "groupBox4";
+            groupBox4.Padding = new Padding(3, 4, 3, 4);
+            groupBox4.Size = new Size(229, 63);
+            groupBox4.TabIndex = 16;
+            groupBox4.TabStop = false;
+            groupBox4.Text = "Facebook";
             // 
             // textBox3
             // 
-            this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox3.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox3.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox3.Location = new System.Drawing.Point(7, 29);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(215, 18);
-            this.textBox3.TabIndex = 0;
-            this.textBox3.Text = "https://www.facebook.com/kxsjdui";
+            textBox3.BorderStyle = BorderStyle.None;
+            textBox3.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox3.ForeColor = SystemColors.InfoText;
+            textBox3.Location = new Point(7, 29);
+            textBox3.Margin = new Padding(3, 4, 3, 4);
+            textBox3.Name = "textBox3";
+            textBox3.ReadOnly = true;
+            textBox3.Size = new Size(215, 18);
+            textBox3.TabIndex = 0;
+            textBox3.Text = "https://www.facebook.com/kxsjdui";
             // 
             // groupBox3
             // 
-            this.groupBox3.Controls.Add(this.textBox2);
-            this.groupBox3.Location = new System.Drawing.Point(302, 119);
-            this.groupBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox3.Size = new System.Drawing.Size(229, 184);
-            this.groupBox3.TabIndex = 16;
-            this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Giới thiệu";
+            groupBox3.Controls.Add(textBox2);
+            groupBox3.Location = new Point(302, 119);
+            groupBox3.Margin = new Padding(3, 4, 3, 4);
+            groupBox3.Name = "groupBox3";
+            groupBox3.Padding = new Padding(3, 4, 3, 4);
+            groupBox3.Size = new Size(229, 184);
+            groupBox3.TabIndex = 16;
+            groupBox3.TabStop = false;
+            groupBox3.Text = "Giới thiệu";
             // 
             // textBox2
             // 
-            this.textBox2.BackColor = System.Drawing.SystemColors.Window;
-            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox2.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox2.Location = new System.Drawing.Point(7, 29);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(215, 147);
-            this.textBox2.TabIndex = 0;
-            this.textBox2.Text = "Năm: Hai \r\nNgành : CNTT\r\nSở thích: Đọc sách\r\nTính cách: Vui tươi";
+            textBox2.BackColor = SystemColors.Window;
+            textBox2.BorderStyle = BorderStyle.None;
+            textBox2.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox2.ForeColor = SystemColors.InfoText;
+            textBox2.Location = new Point(7, 29);
+            textBox2.Margin = new Padding(3, 4, 3, 4);
+            textBox2.Multiline = true;
+            textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
+            textBox2.Size = new Size(215, 147);
+            textBox2.TabIndex = 0;
+            textBox2.Text = "Năm: Hai \r\nNgành : CNTT\r\nSở thích: Đọc sách\r\nTính cách: Vui tươi";
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.textBox1);
-            this.groupBox2.Location = new System.Drawing.Point(302, 41);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox2.Size = new System.Drawing.Size(229, 63);
-            this.groupBox2.TabIndex = 15;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Họ và tên";
+            groupBox2.Controls.Add(textBox1);
+            groupBox2.Location = new Point(302, 41);
+            groupBox2.Margin = new Padding(3, 4, 3, 4);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Padding = new Padding(3, 4, 3, 4);
+            groupBox2.Size = new Size(229, 63);
+            groupBox2.TabIndex = 15;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Họ và tên";
             // 
             // textBox1
             // 
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox1.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox1.Location = new System.Drawing.Point(7, 29);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(215, 18);
-            this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "Lại Hoàng Phúc Khải";
-            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            textBox1.BorderStyle = BorderStyle.None;
+            textBox1.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox1.ForeColor = SystemColors.InfoText;
+            textBox1.Location = new Point(7, 29);
+            textBox1.Margin = new Padding(3, 4, 3, 4);
+            textBox1.Name = "textBox1";
+            textBox1.ReadOnly = true;
+            textBox1.Size = new Size(215, 18);
+            textBox1.TabIndex = 0;
+            textBox1.Text = "Lại Hoàng Phúc Khải";
+            textBox1.TextAlign = HorizontalAlignment.Center;
             // 
             // groupBox5
             // 
-            this.groupBox5.BackColor = System.Drawing.Color.White;
-            this.groupBox5.Controls.Add(this.groupBox6);
-            this.groupBox5.Controls.Add(this.groupBox7);
-            this.groupBox5.Controls.Add(this.groupBox8);
-            this.groupBox5.Controls.Add(this.pictureBox2);
-            this.groupBox5.Location = new System.Drawing.Point(590, 95);
-            this.groupBox5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox5.Size = new System.Drawing.Size(562, 404);
-            this.groupBox5.TabIndex = 17;
-            this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "Thành viên";
+            groupBox5.BackColor = Color.White;
+            groupBox5.Controls.Add(groupBox6);
+            groupBox5.Controls.Add(groupBox7);
+            groupBox5.Controls.Add(groupBox8);
+            groupBox5.Controls.Add(pictureBox2);
+            groupBox5.Location = new Point(590, 95);
+            groupBox5.Margin = new Padding(3, 4, 3, 4);
+            groupBox5.Name = "groupBox5";
+            groupBox5.Padding = new Padding(3, 4, 3, 4);
+            groupBox5.Size = new Size(562, 404);
+            groupBox5.TabIndex = 17;
+            groupBox5.TabStop = false;
+            groupBox5.Text = "Thành viên";
             // 
             // groupBox6
             // 
-            this.groupBox6.Controls.Add(this.textBox4);
-            this.groupBox6.Location = new System.Drawing.Point(302, 315);
-            this.groupBox6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox6.Name = "groupBox6";
-            this.groupBox6.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox6.Size = new System.Drawing.Size(229, 63);
-            this.groupBox6.TabIndex = 16;
-            this.groupBox6.TabStop = false;
-            this.groupBox6.Text = "Facebook";
+            groupBox6.Controls.Add(textBox4);
+            groupBox6.Location = new Point(302, 315);
+            groupBox6.Margin = new Padding(3, 4, 3, 4);
+            groupBox6.Name = "groupBox6";
+            groupBox6.Padding = new Padding(3, 4, 3, 4);
+            groupBox6.Size = new Size(229, 63);
+            groupBox6.TabIndex = 16;
+            groupBox6.TabStop = false;
+            groupBox6.Text = "Facebook";
             // 
             // textBox4
             // 
-            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox4.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox4.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox4.Location = new System.Drawing.Point(7, 29);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(215, 18);
-            this.textBox4.TabIndex = 0;
+            textBox4.BorderStyle = BorderStyle.None;
+            textBox4.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox4.ForeColor = SystemColors.InfoText;
+            textBox4.Location = new Point(7, 29);
+            textBox4.Margin = new Padding(3, 4, 3, 4);
+            textBox4.Name = "textBox4";
+            textBox4.Size = new Size(215, 18);
+            textBox4.TabIndex = 0;
             // 
             // groupBox7
             // 
-            this.groupBox7.Controls.Add(this.textBox5);
-            this.groupBox7.Location = new System.Drawing.Point(302, 119);
-            this.groupBox7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox7.Name = "groupBox7";
-            this.groupBox7.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox7.Size = new System.Drawing.Size(229, 184);
-            this.groupBox7.TabIndex = 16;
-            this.groupBox7.TabStop = false;
-            this.groupBox7.Text = "Giới thiệu";
+            groupBox7.Controls.Add(textBox5);
+            groupBox7.Location = new Point(302, 119);
+            groupBox7.Margin = new Padding(3, 4, 3, 4);
+            groupBox7.Name = "groupBox7";
+            groupBox7.Padding = new Padding(3, 4, 3, 4);
+            groupBox7.Size = new Size(229, 184);
+            groupBox7.TabIndex = 16;
+            groupBox7.TabStop = false;
+            groupBox7.Text = "Giới thiệu";
             // 
             // textBox5
             // 
-            this.textBox5.BackColor = System.Drawing.SystemColors.Window;
-            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox5.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox5.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox5.Location = new System.Drawing.Point(7, 29);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox5.Multiline = true;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(215, 147);
-            this.textBox5.TabIndex = 0;
+            textBox5.BackColor = SystemColors.Window;
+            textBox5.BorderStyle = BorderStyle.None;
+            textBox5.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox5.ForeColor = SystemColors.InfoText;
+            textBox5.Location = new Point(7, 29);
+            textBox5.Margin = new Padding(3, 4, 3, 4);
+            textBox5.Multiline = true;
+            textBox5.Name = "textBox5";
+            textBox5.Size = new Size(215, 147);
+            textBox5.TabIndex = 0;
             // 
             // groupBox8
             // 
-            this.groupBox8.Controls.Add(this.textBox6);
-            this.groupBox8.Location = new System.Drawing.Point(302, 41);
-            this.groupBox8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox8.Name = "groupBox8";
-            this.groupBox8.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox8.Size = new System.Drawing.Size(229, 63);
-            this.groupBox8.TabIndex = 15;
-            this.groupBox8.TabStop = false;
-            this.groupBox8.Text = "Họ và tên";
+            groupBox8.Controls.Add(textBox6);
+            groupBox8.Location = new Point(302, 41);
+            groupBox8.Margin = new Padding(3, 4, 3, 4);
+            groupBox8.Name = "groupBox8";
+            groupBox8.Padding = new Padding(3, 4, 3, 4);
+            groupBox8.Size = new Size(229, 63);
+            groupBox8.TabIndex = 15;
+            groupBox8.TabStop = false;
+            groupBox8.Text = "Họ và tên";
             // 
             // textBox6
             // 
-            this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox6.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox6.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox6.Location = new System.Drawing.Point(7, 29);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(215, 18);
-            this.textBox6.TabIndex = 0;
-            this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            textBox6.BorderStyle = BorderStyle.None;
+            textBox6.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox6.ForeColor = SystemColors.InfoText;
+            textBox6.Location = new Point(7, 29);
+            textBox6.Margin = new Padding(3, 4, 3, 4);
+            textBox6.Name = "textBox6";
+            textBox6.Size = new Size(215, 18);
+            textBox6.TabIndex = 0;
+            textBox6.TextAlign = HorizontalAlignment.Center;
             // 
             // pictureBox2
             // 
-            this.pictureBox2.BackColor = System.Drawing.Color.Gainsboro;
-            this.pictureBox2.Location = new System.Drawing.Point(0, 29);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(279, 367);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 14;
-            this.pictureBox2.TabStop = false;
+            pictureBox2.BackColor = Color.Gainsboro;
+            pictureBox2.Location = new Point(0, 29);
+            pictureBox2.Margin = new Padding(3, 4, 3, 4);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(279, 367);
+            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox2.TabIndex = 14;
+            pictureBox2.TabStop = false;
             // 
             // groupBox17
             // 
-            this.groupBox17.BackColor = System.Drawing.Color.White;
-            this.groupBox17.Controls.Add(this.groupBox18);
-            this.groupBox17.Controls.Add(this.groupBox19);
-            this.groupBox17.Controls.Add(this.groupBox20);
-            this.groupBox17.Controls.Add(this.pictureBox5);
-            this.groupBox17.Location = new System.Drawing.Point(590, 95);
-            this.groupBox17.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox17.Name = "groupBox17";
-            this.groupBox17.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox17.Size = new System.Drawing.Size(562, 404);
-            this.groupBox17.TabIndex = 17;
-            this.groupBox17.TabStop = false;
-            this.groupBox17.Text = "Thành viên";
+            groupBox17.BackColor = Color.White;
+            groupBox17.Controls.Add(groupBox18);
+            groupBox17.Controls.Add(groupBox19);
+            groupBox17.Controls.Add(groupBox20);
+            groupBox17.Controls.Add(pictureBox5);
+            groupBox17.Location = new Point(590, 95);
+            groupBox17.Margin = new Padding(3, 4, 3, 4);
+            groupBox17.Name = "groupBox17";
+            groupBox17.Padding = new Padding(3, 4, 3, 4);
+            groupBox17.Size = new Size(562, 404);
+            groupBox17.TabIndex = 17;
+            groupBox17.TabStop = false;
+            groupBox17.Text = "Thành viên";
             // 
             // groupBox18
             // 
-            this.groupBox18.Controls.Add(this.textBox13);
-            this.groupBox18.Location = new System.Drawing.Point(302, 315);
-            this.groupBox18.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox18.Name = "groupBox18";
-            this.groupBox18.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox18.Size = new System.Drawing.Size(229, 63);
-            this.groupBox18.TabIndex = 16;
-            this.groupBox18.TabStop = false;
-            this.groupBox18.Text = "Facebook";
+            groupBox18.Controls.Add(textBox13);
+            groupBox18.Location = new Point(302, 315);
+            groupBox18.Margin = new Padding(3, 4, 3, 4);
+            groupBox18.Name = "groupBox18";
+            groupBox18.Padding = new Padding(3, 4, 3, 4);
+            groupBox18.Size = new Size(229, 63);
+            groupBox18.TabIndex = 16;
+            groupBox18.TabStop = false;
+            groupBox18.Text = "Facebook";
             // 
             // textBox13
             // 
-            this.textBox13.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox13.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox13.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox13.Location = new System.Drawing.Point(7, 29);
-            this.textBox13.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox13.Name = "textBox13";
-            this.textBox13.ReadOnly = true;
-            this.textBox13.Size = new System.Drawing.Size(215, 18);
-            this.textBox13.TabIndex = 0;
-            this.textBox13.Text = "https://www.facebook.com/profile.php?id=61556692389130\r\n";
+            textBox13.BorderStyle = BorderStyle.None;
+            textBox13.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox13.ForeColor = SystemColors.InfoText;
+            textBox13.Location = new Point(7, 29);
+            textBox13.Margin = new Padding(3, 4, 3, 4);
+            textBox13.Name = "textBox13";
+            textBox13.ReadOnly = true;
+            textBox13.Size = new Size(215, 18);
+            textBox13.TabIndex = 0;
+            textBox13.Text = "https://www.facebook.com/profile.php?id=61556692389130\r\n";
             // 
             // groupBox19
             // 
-            this.groupBox19.Controls.Add(this.textBox14);
-            this.groupBox19.Location = new System.Drawing.Point(302, 119);
-            this.groupBox19.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox19.Name = "groupBox19";
-            this.groupBox19.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox19.Size = new System.Drawing.Size(229, 184);
-            this.groupBox19.TabIndex = 16;
-            this.groupBox19.TabStop = false;
-            this.groupBox19.Text = "Giới thiệu";
+            groupBox19.Controls.Add(textBox14);
+            groupBox19.Location = new Point(302, 119);
+            groupBox19.Margin = new Padding(3, 4, 3, 4);
+            groupBox19.Name = "groupBox19";
+            groupBox19.Padding = new Padding(3, 4, 3, 4);
+            groupBox19.Size = new Size(229, 184);
+            groupBox19.TabIndex = 16;
+            groupBox19.TabStop = false;
+            groupBox19.Text = "Giới thiệu";
             // 
             // textBox14
             // 
-            this.textBox14.BackColor = System.Drawing.SystemColors.Window;
-            this.textBox14.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox14.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox14.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox14.Location = new System.Drawing.Point(7, 29);
-            this.textBox14.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox14.Multiline = true;
-            this.textBox14.Name = "textBox14";
-            this.textBox14.ReadOnly = true;
-            this.textBox14.Size = new System.Drawing.Size(215, 147);
-            this.textBox14.TabIndex = 0;
-            this.textBox14.Text = "Năm : Hai\r\nNgành : CNTT\r\nSở thích : Đọc tiểu thuyết mạng";
+            textBox14.BackColor = SystemColors.Window;
+            textBox14.BorderStyle = BorderStyle.None;
+            textBox14.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox14.ForeColor = SystemColors.InfoText;
+            textBox14.Location = new Point(7, 29);
+            textBox14.Margin = new Padding(3, 4, 3, 4);
+            textBox14.Multiline = true;
+            textBox14.Name = "textBox14";
+            textBox14.ReadOnly = true;
+            textBox14.Size = new Size(215, 147);
+            textBox14.TabIndex = 0;
+            textBox14.Text = "Năm : Hai\r\nNgành : CNTT\r\nSở thích : Đọc tiểu thuyết mạng";
             // 
             // groupBox20
             // 
-            this.groupBox20.Controls.Add(this.textBox15);
-            this.groupBox20.Location = new System.Drawing.Point(302, 41);
-            this.groupBox20.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox20.Name = "groupBox20";
-            this.groupBox20.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox20.Size = new System.Drawing.Size(229, 63);
-            this.groupBox20.TabIndex = 15;
-            this.groupBox20.TabStop = false;
-            this.groupBox20.Text = "Họ và tên";
+            groupBox20.Controls.Add(textBox15);
+            groupBox20.Location = new Point(302, 41);
+            groupBox20.Margin = new Padding(3, 4, 3, 4);
+            groupBox20.Name = "groupBox20";
+            groupBox20.Padding = new Padding(3, 4, 3, 4);
+            groupBox20.Size = new Size(229, 63);
+            groupBox20.TabIndex = 15;
+            groupBox20.TabStop = false;
+            groupBox20.Text = "Họ và tên";
             // 
             // textBox15
             // 
-            this.textBox15.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox15.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox15.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox15.Location = new System.Drawing.Point(7, 29);
-            this.textBox15.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.ReadOnly = true;
-            this.textBox15.Size = new System.Drawing.Size(215, 18);
-            this.textBox15.TabIndex = 0;
-            this.textBox15.Text = "Phạm Minh Trung";
-            this.textBox15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            textBox15.BorderStyle = BorderStyle.None;
+            textBox15.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox15.ForeColor = SystemColors.InfoText;
+            textBox15.Location = new Point(7, 29);
+            textBox15.Margin = new Padding(3, 4, 3, 4);
+            textBox15.Name = "textBox15";
+            textBox15.ReadOnly = true;
+            textBox15.Size = new Size(215, 18);
+            textBox15.TabIndex = 0;
+            textBox15.Text = "Phạm Minh Trung";
+            textBox15.TextAlign = HorizontalAlignment.Center;
             // 
             // pictureBox5
             // 
-            this.pictureBox5.BackColor = System.Drawing.Color.Gainsboro;
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(0, 29);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(279, 367);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 14;
-            this.pictureBox5.TabStop = false;
+            pictureBox5.BackColor = Color.Gainsboro;
+            pictureBox5.Image = (Image)resources.GetObject("pictureBox5.Image");
+            pictureBox5.Location = new Point(0, 29);
+            pictureBox5.Margin = new Padding(3, 4, 3, 4);
+            pictureBox5.Name = "pictureBox5";
+            pictureBox5.Size = new Size(279, 367);
+            pictureBox5.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox5.TabIndex = 14;
+            pictureBox5.TabStop = false;
             // 
             // groupBox9
             // 
-            this.groupBox9.BackColor = System.Drawing.Color.White;
-            this.groupBox9.Controls.Add(this.groupBox10);
-            this.groupBox9.Controls.Add(this.groupBox11);
-            this.groupBox9.Controls.Add(this.groupBox12);
-            this.groupBox9.Controls.Add(this.pictureBox3);
-            this.groupBox9.Location = new System.Drawing.Point(14, 532);
-            this.groupBox9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox9.Name = "groupBox9";
-            this.groupBox9.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox9.Size = new System.Drawing.Size(562, 404);
-            this.groupBox9.TabIndex = 18;
-            this.groupBox9.TabStop = false;
-            this.groupBox9.Text = "Thành viên";
+            groupBox9.BackColor = Color.White;
+            groupBox9.Controls.Add(groupBox10);
+            groupBox9.Controls.Add(groupBox11);
+            groupBox9.Controls.Add(groupBox12);
+            groupBox9.Controls.Add(pictureBox3);
+            groupBox9.Location = new Point(14, 532);
+            groupBox9.Margin = new Padding(3, 4, 3, 4);
+            groupBox9.Name = "groupBox9";
+            groupBox9.Padding = new Padding(3, 4, 3, 4);
+            groupBox9.Size = new Size(562, 404);
+            groupBox9.TabIndex = 18;
+            groupBox9.TabStop = false;
+            groupBox9.Text = "Thành viên";
             // 
             // groupBox10
             // 
-            this.groupBox10.Controls.Add(this.textBox7);
-            this.groupBox10.Location = new System.Drawing.Point(302, 315);
-            this.groupBox10.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox10.Name = "groupBox10";
-            this.groupBox10.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox10.Size = new System.Drawing.Size(229, 63);
-            this.groupBox10.TabIndex = 16;
-            this.groupBox10.TabStop = false;
-            this.groupBox10.Text = "Facebook";
+            groupBox10.Controls.Add(textBox7);
+            groupBox10.Location = new Point(302, 315);
+            groupBox10.Margin = new Padding(3, 4, 3, 4);
+            groupBox10.Name = "groupBox10";
+            groupBox10.Padding = new Padding(3, 4, 3, 4);
+            groupBox10.Size = new Size(229, 63);
+            groupBox10.TabIndex = 16;
+            groupBox10.TabStop = false;
+            groupBox10.Text = "Facebook";
             // 
             // textBox7
             // 
-            this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox7.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox7.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox7.Location = new System.Drawing.Point(7, 29);
-            this.textBox7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.ReadOnly = true;
-            this.textBox7.Size = new System.Drawing.Size(215, 18);
-            this.textBox7.TabIndex = 0;
+            textBox7.BorderStyle = BorderStyle.None;
+            textBox7.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox7.ForeColor = SystemColors.InfoText;
+            textBox7.Location = new Point(7, 29);
+            textBox7.Margin = new Padding(3, 4, 3, 4);
+            textBox7.Name = "textBox7";
+            textBox7.ReadOnly = true;
+            textBox7.Size = new Size(215, 18);
+            textBox7.TabIndex = 0;
             // 
             // groupBox11
             // 
-            this.groupBox11.Controls.Add(this.textBox8);
-            this.groupBox11.Location = new System.Drawing.Point(302, 119);
-            this.groupBox11.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox11.Name = "groupBox11";
-            this.groupBox11.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox11.Size = new System.Drawing.Size(229, 184);
-            this.groupBox11.TabIndex = 16;
-            this.groupBox11.TabStop = false;
-            this.groupBox11.Text = "Giới thiệu";
+            groupBox11.Controls.Add(textBox8);
+            groupBox11.Location = new Point(302, 119);
+            groupBox11.Margin = new Padding(3, 4, 3, 4);
+            groupBox11.Name = "groupBox11";
+            groupBox11.Padding = new Padding(3, 4, 3, 4);
+            groupBox11.Size = new Size(229, 184);
+            groupBox11.TabIndex = 16;
+            groupBox11.TabStop = false;
+            groupBox11.Text = "Giới thiệu";
             // 
             // textBox8
             // 
-            this.textBox8.BackColor = System.Drawing.SystemColors.Window;
-            this.textBox8.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox8.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox8.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox8.Location = new System.Drawing.Point(7, 29);
-            this.textBox8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox8.Multiline = true;
-            this.textBox8.Name = "textBox8";
-            this.textBox8.ReadOnly = true;
-            this.textBox8.Size = new System.Drawing.Size(215, 147);
-            this.textBox8.TabIndex = 0;
+            textBox8.BackColor = SystemColors.Window;
+            textBox8.BorderStyle = BorderStyle.None;
+            textBox8.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox8.ForeColor = SystemColors.InfoText;
+            textBox8.Location = new Point(7, 29);
+            textBox8.Margin = new Padding(3, 4, 3, 4);
+            textBox8.Multiline = true;
+            textBox8.Name = "textBox8";
+            textBox8.ReadOnly = true;
+            textBox8.Size = new Size(215, 147);
+            textBox8.TabIndex = 0;
             // 
             // groupBox12
             // 
-            this.groupBox12.Controls.Add(this.textBox9);
-            this.groupBox12.Location = new System.Drawing.Point(302, 41);
-            this.groupBox12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox12.Name = "groupBox12";
-            this.groupBox12.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox12.Size = new System.Drawing.Size(229, 63);
-            this.groupBox12.TabIndex = 15;
-            this.groupBox12.TabStop = false;
-            this.groupBox12.Text = "Họ và tên";
+            groupBox12.Controls.Add(textBox9);
+            groupBox12.Location = new Point(302, 41);
+            groupBox12.Margin = new Padding(3, 4, 3, 4);
+            groupBox12.Name = "groupBox12";
+            groupBox12.Padding = new Padding(3, 4, 3, 4);
+            groupBox12.Size = new Size(229, 63);
+            groupBox12.TabIndex = 15;
+            groupBox12.TabStop = false;
+            groupBox12.Text = "Họ và tên";
             // 
             // textBox9
             // 
-            this.textBox9.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox9.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox9.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox9.Location = new System.Drawing.Point(7, 29);
-            this.textBox9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.ReadOnly = true;
-            this.textBox9.Size = new System.Drawing.Size(215, 18);
-            this.textBox9.TabIndex = 0;
-            this.textBox9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            textBox9.BorderStyle = BorderStyle.None;
+            textBox9.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox9.ForeColor = SystemColors.InfoText;
+            textBox9.Location = new Point(7, 29);
+            textBox9.Margin = new Padding(3, 4, 3, 4);
+            textBox9.Name = "textBox9";
+            textBox9.ReadOnly = true;
+            textBox9.Size = new Size(215, 18);
+            textBox9.TabIndex = 0;
+            textBox9.TextAlign = HorizontalAlignment.Center;
             // 
             // pictureBox3
             // 
-            this.pictureBox3.BackColor = System.Drawing.Color.Gainsboro;
-            this.pictureBox3.Location = new System.Drawing.Point(0, 29);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(279, 367);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 14;
-            this.pictureBox3.TabStop = false;
+            pictureBox3.BackColor = Color.Gainsboro;
+            pictureBox3.Location = new Point(0, 29);
+            pictureBox3.Margin = new Padding(3, 4, 3, 4);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(279, 367);
+            pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox3.TabIndex = 14;
+            pictureBox3.TabStop = false;
             // 
             // groupBox13
             // 
-            this.groupBox13.BackColor = System.Drawing.Color.White;
-            this.groupBox13.Controls.Add(this.groupBox14);
-            this.groupBox13.Controls.Add(this.groupBox15);
-            this.groupBox13.Controls.Add(this.groupBox16);
-            this.groupBox13.Controls.Add(this.pictureBox4);
-            this.groupBox13.Location = new System.Drawing.Point(590, 532);
-            this.groupBox13.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox13.Name = "groupBox13";
-            this.groupBox13.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox13.Size = new System.Drawing.Size(562, 404);
-            this.groupBox13.TabIndex = 18;
-            this.groupBox13.TabStop = false;
-            this.groupBox13.Text = "Thành viên";
+            groupBox13.BackColor = Color.White;
+            groupBox13.Controls.Add(groupBox14);
+            groupBox13.Controls.Add(groupBox15);
+            groupBox13.Controls.Add(groupBox16);
+            groupBox13.Controls.Add(pictureBox4);
+            groupBox13.Location = new Point(590, 532);
+            groupBox13.Margin = new Padding(3, 4, 3, 4);
+            groupBox13.Name = "groupBox13";
+            groupBox13.Padding = new Padding(3, 4, 3, 4);
+            groupBox13.Size = new Size(562, 404);
+            groupBox13.TabIndex = 18;
+            groupBox13.TabStop = false;
+            groupBox13.Text = "Thành viên";
             // 
             // groupBox14
             // 
-            this.groupBox14.Controls.Add(this.textBox10);
-            this.groupBox14.Location = new System.Drawing.Point(302, 315);
-            this.groupBox14.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox14.Name = "groupBox14";
-            this.groupBox14.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox14.Size = new System.Drawing.Size(229, 63);
-            this.groupBox14.TabIndex = 16;
-            this.groupBox14.TabStop = false;
-            this.groupBox14.Text = "Facebook";
+            groupBox14.Controls.Add(textBox10);
+            groupBox14.Location = new Point(302, 315);
+            groupBox14.Margin = new Padding(3, 4, 3, 4);
+            groupBox14.Name = "groupBox14";
+            groupBox14.Padding = new Padding(3, 4, 3, 4);
+            groupBox14.Size = new Size(229, 63);
+            groupBox14.TabIndex = 16;
+            groupBox14.TabStop = false;
+            groupBox14.Text = "Facebook";
             // 
             // textBox10
             // 
-            this.textBox10.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox10.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox10.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox10.Location = new System.Drawing.Point(7, 29);
-            this.textBox10.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.ReadOnly = true;
-            this.textBox10.Size = new System.Drawing.Size(215, 18);
-            this.textBox10.TabIndex = 0;
+            textBox10.BorderStyle = BorderStyle.None;
+            textBox10.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox10.ForeColor = SystemColors.InfoText;
+            textBox10.Location = new Point(7, 29);
+            textBox10.Margin = new Padding(3, 4, 3, 4);
+            textBox10.Name = "textBox10";
+            textBox10.ReadOnly = true;
+            textBox10.Size = new Size(215, 18);
+            textBox10.TabIndex = 0;
+            textBox10.Text = "https://www.facebook.com/profile.php?id=100048045647315&mibextid=sCpJLy\r\n";
             // 
             // groupBox15
             // 
-            this.groupBox15.Controls.Add(this.textBox11);
-            this.groupBox15.Location = new System.Drawing.Point(302, 119);
-            this.groupBox15.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox15.Name = "groupBox15";
-            this.groupBox15.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox15.Size = new System.Drawing.Size(229, 184);
-            this.groupBox15.TabIndex = 16;
-            this.groupBox15.TabStop = false;
-            this.groupBox15.Text = "Giới thiệu";
+            groupBox15.Controls.Add(textBox11);
+            groupBox15.Location = new Point(302, 119);
+            groupBox15.Margin = new Padding(3, 4, 3, 4);
+            groupBox15.Name = "groupBox15";
+            groupBox15.Padding = new Padding(3, 4, 3, 4);
+            groupBox15.Size = new Size(229, 184);
+            groupBox15.TabIndex = 16;
+            groupBox15.TabStop = false;
+            groupBox15.Text = "Giới thiệu";
             // 
             // textBox11
             // 
-            this.textBox11.BackColor = System.Drawing.SystemColors.Window;
-            this.textBox11.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox11.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox11.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox11.Location = new System.Drawing.Point(7, 29);
-            this.textBox11.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox11.Multiline = true;
-            this.textBox11.Name = "textBox11";
-            this.textBox11.ReadOnly = true;
-            this.textBox11.Size = new System.Drawing.Size(215, 147);
-            this.textBox11.TabIndex = 0;
+            textBox11.BackColor = SystemColors.Window;
+            textBox11.BorderStyle = BorderStyle.None;
+            textBox11.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox11.ForeColor = SystemColors.InfoText;
+            textBox11.Location = new Point(7, 29);
+            textBox11.Margin = new Padding(3, 4, 3, 4);
+            textBox11.Multiline = true;
+            textBox11.Name = "textBox11";
+            textBox11.ReadOnly = true;
+            textBox11.Size = new Size(215, 147);
+            textBox11.TabIndex = 0;
+            textBox11.Text = "Năm: Hai\r\nNgành: CNTT\r\nSở thích: Nghe nhạc\r\n";
             // 
             // groupBox16
             // 
-            this.groupBox16.Controls.Add(this.textBox12);
-            this.groupBox16.Location = new System.Drawing.Point(302, 41);
-            this.groupBox16.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox16.Name = "groupBox16";
-            this.groupBox16.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox16.Size = new System.Drawing.Size(229, 63);
-            this.groupBox16.TabIndex = 15;
-            this.groupBox16.TabStop = false;
-            this.groupBox16.Text = "Họ và tên";
+            groupBox16.Controls.Add(textBox12);
+            groupBox16.Location = new Point(302, 41);
+            groupBox16.Margin = new Padding(3, 4, 3, 4);
+            groupBox16.Name = "groupBox16";
+            groupBox16.Padding = new Padding(3, 4, 3, 4);
+            groupBox16.Size = new Size(229, 63);
+            groupBox16.TabIndex = 15;
+            groupBox16.TabStop = false;
+            groupBox16.Text = "Họ và tên";
             // 
             // textBox12
             // 
-            this.textBox12.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox12.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox12.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox12.Location = new System.Drawing.Point(7, 29);
-            this.textBox12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.ReadOnly = true;
-            this.textBox12.Size = new System.Drawing.Size(215, 18);
-            this.textBox12.TabIndex = 0;
-            this.textBox12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            textBox12.BorderStyle = BorderStyle.None;
+            textBox12.Font = new Font("Times New Roman", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox12.ForeColor = SystemColors.InfoText;
+            textBox12.Location = new Point(7, 29);
+            textBox12.Margin = new Padding(3, 4, 3, 4);
+            textBox12.Name = "textBox12";
+            textBox12.ReadOnly = true;
+            textBox12.Size = new Size(215, 18);
+            textBox12.TabIndex = 0;
+            textBox12.Text = "Lê Nhựt Anh";
+            textBox12.TextAlign = HorizontalAlignment.Center;
             // 
             // pictureBox4
             // 
-            this.pictureBox4.BackColor = System.Drawing.Color.Gainsboro;
-            this.pictureBox4.Location = new System.Drawing.Point(0, 29);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(279, 367);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 14;
-            this.pictureBox4.TabStop = false;
+            pictureBox4.BackColor = Color.Gainsboro;
+            pictureBox4.Image = Properties.Resources.z5222435485082_d216dd0458ad23320c04795ec7599dcd;
+            pictureBox4.Location = new Point(0, 29);
+            pictureBox4.Margin = new Padding(3, 4, 3, 4);
+            pictureBox4.Name = "pictureBox4";
+            pictureBox4.Size = new Size(279, 367);
+            pictureBox4.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox4.TabIndex = 14;
+            pictureBox4.TabStop = false;
             // 
             // aboutUS
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(1166, 948);
-            this.Controls.Add(this.groupBox13);
-            this.Controls.Add(this.groupBox9);
-            this.Controls.Add(this.groupBox17);
-            this.Controls.Add(this.groupBox5);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.groupBox1);
-            this.Name = "aboutUS";
-            this.Text = "aboutUS";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox4.ResumeLayout(false);
-            this.groupBox4.PerformLayout();
-            this.groupBox3.ResumeLayout(false);
-            this.groupBox3.PerformLayout();
-            this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
-            this.groupBox5.ResumeLayout(false);
-            this.groupBox6.ResumeLayout(false);
-            this.groupBox6.PerformLayout();
-            this.groupBox7.ResumeLayout(false);
-            this.groupBox7.PerformLayout();
-            this.groupBox8.ResumeLayout(false);
-            this.groupBox8.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            this.groupBox17.ResumeLayout(false);
-            this.groupBox18.ResumeLayout(false);
-            this.groupBox18.PerformLayout();
-            this.groupBox19.ResumeLayout(false);
-            this.groupBox19.PerformLayout();
-            this.groupBox20.ResumeLayout(false);
-            this.groupBox20.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            this.groupBox9.ResumeLayout(false);
-            this.groupBox10.ResumeLayout(false);
-            this.groupBox10.PerformLayout();
-            this.groupBox11.ResumeLayout(false);
-            this.groupBox11.PerformLayout();
-            this.groupBox12.ResumeLayout(false);
-            this.groupBox12.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            this.groupBox13.ResumeLayout(false);
-            this.groupBox14.ResumeLayout(false);
-            this.groupBox14.PerformLayout();
-            this.groupBox15.ResumeLayout(false);
-            this.groupBox15.PerformLayout();
-            this.groupBox16.ResumeLayout(false);
-            this.groupBox16.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.Control;
+            ClientSize = new Size(1166, 948);
+            Controls.Add(groupBox13);
+            Controls.Add(groupBox9);
+            Controls.Add(groupBox17);
+            Controls.Add(groupBox5);
+            Controls.Add(label1);
+            Controls.Add(groupBox1);
+            Name = "aboutUS";
+            Text = "aboutUS";
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            groupBox1.ResumeLayout(false);
+            groupBox4.ResumeLayout(false);
+            groupBox4.PerformLayout();
+            groupBox3.ResumeLayout(false);
+            groupBox3.PerformLayout();
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
+            groupBox5.ResumeLayout(false);
+            groupBox6.ResumeLayout(false);
+            groupBox6.PerformLayout();
+            groupBox7.ResumeLayout(false);
+            groupBox7.PerformLayout();
+            groupBox8.ResumeLayout(false);
+            groupBox8.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            groupBox17.ResumeLayout(false);
+            groupBox18.ResumeLayout(false);
+            groupBox18.PerformLayout();
+            groupBox19.ResumeLayout(false);
+            groupBox19.PerformLayout();
+            groupBox20.ResumeLayout(false);
+            groupBox20.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
+            groupBox9.ResumeLayout(false);
+            groupBox10.ResumeLayout(false);
+            groupBox10.PerformLayout();
+            groupBox11.ResumeLayout(false);
+            groupBox11.PerformLayout();
+            groupBox12.ResumeLayout(false);
+            groupBox12.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
+            groupBox13.ResumeLayout(false);
+            groupBox14.ResumeLayout(false);
+            groupBox14.PerformLayout();
+            groupBox15.ResumeLayout(false);
+            groupBox15.PerformLayout();
+            groupBox16.ResumeLayout(false);
+            groupBox16.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

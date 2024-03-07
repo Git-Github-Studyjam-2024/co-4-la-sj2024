@@ -59,5 +59,15 @@ namespace DuAnNhom.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap z5222435485082_d216dd0458ad23320c04795ec7599dcd {
+            get {
+                object obj = ResourceManager.GetObject("z5222435485082_d216dd0458ad23320c04795ec7599dcd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
