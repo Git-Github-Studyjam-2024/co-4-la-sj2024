@@ -28,121 +28,118 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.homeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.aboutUsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.contactToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.panel = new System.Windows.Forms.Panel();
-            this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.menuStrip1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
-            this.SuspendLayout();
+            menuStrip1 = new MenuStrip();
+            homeToolStripMenuItem = new ToolStripMenuItem();
+            aboutUsToolStripMenuItem = new ToolStripMenuItem();
+            contactToolStripMenuItem = new ToolStripMenuItem();
+            pictureBox1 = new PictureBox();
+            groupBox1 = new GroupBox();
+            panel = new Panel();
+            bindingSource1 = new BindingSource(components);
+            menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)bindingSource1).BeginInit();
+            SuspendLayout();
             // 
             // menuStrip1
             // 
-            this.menuStrip1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.menuStrip1.AutoSize = false;
-            this.menuStrip1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.menuStrip1.Dock = System.Windows.Forms.DockStyle.None;
-            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 50);
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.homeToolStripMenuItem,
-            this.aboutUsToolStripMenuItem,
-            this.contactToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(700, 12);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(535, 102);
-            this.menuStrip1.TabIndex = 0;
-            this.menuStrip1.Text = "menuStrip1";
+            menuStrip1.Anchor = AnchorStyles.None;
+            menuStrip1.AutoSize = false;
+            menuStrip1.BackColor = SystemColors.ButtonHighlight;
+            menuStrip1.Dock = DockStyle.None;
+            menuStrip1.ImageScalingSize = new Size(20, 50);
+            menuStrip1.Items.AddRange(new ToolStripItem[] { homeToolStripMenuItem, aboutUsToolStripMenuItem, contactToolStripMenuItem });
+            menuStrip1.Location = new Point(700, 12);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(535, 102);
+            menuStrip1.TabIndex = 0;
+            menuStrip1.Text = "menuStrip1";
             // 
             // homeToolStripMenuItem
             // 
-            this.homeToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.homeToolStripMenuItem.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.homeToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.homeToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.homeToolStripMenuItem.Name = "homeToolStripMenuItem";
-            this.homeToolStripMenuItem.Size = new System.Drawing.Size(125, 98);
-            this.homeToolStripMenuItem.Text = "Home";
-            this.homeToolStripMenuItem.Click += new System.EventHandler(this.homeToolStripMenuItem_Click);
+            homeToolStripMenuItem.BackColor = SystemColors.ButtonHighlight;
+            homeToolStripMenuItem.BackgroundImageLayout = ImageLayout.None;
+            homeToolStripMenuItem.Font = new Font("Segoe UI", 20F, FontStyle.Regular, GraphicsUnit.Point);
+            homeToolStripMenuItem.ForeColor = SystemColors.Highlight;
+            homeToolStripMenuItem.Name = "homeToolStripMenuItem";
+            homeToolStripMenuItem.Size = new Size(125, 98);
+            homeToolStripMenuItem.Text = "Home";
+            homeToolStripMenuItem.Click += homeToolStripMenuItem_Click;
             // 
             // aboutUsToolStripMenuItem
             // 
-            this.aboutUsToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.aboutUsToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.aboutUsToolStripMenuItem.Name = "aboutUsToolStripMenuItem";
-            this.aboutUsToolStripMenuItem.Size = new System.Drawing.Size(169, 98);
-            this.aboutUsToolStripMenuItem.Text = "About us";
-            this.aboutUsToolStripMenuItem.Click += new System.EventHandler(this.aboutUsToolStripMenuItem_Click);
+            aboutUsToolStripMenuItem.Font = new Font("Segoe UI", 20F, FontStyle.Regular, GraphicsUnit.Point);
+            aboutUsToolStripMenuItem.ForeColor = SystemColors.Highlight;
+            aboutUsToolStripMenuItem.Name = "aboutUsToolStripMenuItem";
+            aboutUsToolStripMenuItem.Size = new Size(169, 98);
+            aboutUsToolStripMenuItem.Text = "About us";
+            aboutUsToolStripMenuItem.Click += aboutUsToolStripMenuItem_Click;
             // 
             // contactToolStripMenuItem
             // 
-            this.contactToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.contactToolStripMenuItem.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.contactToolStripMenuItem.Name = "contactToolStripMenuItem";
-            this.contactToolStripMenuItem.Size = new System.Drawing.Size(151, 98);
-            this.contactToolStripMenuItem.Text = "Contact";
-            this.contactToolStripMenuItem.Click += new System.EventHandler(this.contactToolStripMenuItem_Click);
+            contactToolStripMenuItem.Font = new Font("Segoe UI", 20F, FontStyle.Regular, GraphicsUnit.Point);
+            contactToolStripMenuItem.ForeColor = SystemColors.MenuHighlight;
+            contactToolStripMenuItem.Name = "contactToolStripMenuItem";
+            contactToolStripMenuItem.Size = new Size(151, 98);
+            contactToolStripMenuItem.Text = "Contact";
+            contactToolStripMenuItem.Click += contactToolStripMenuItem_Click;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(0, 12);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(592, 94);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(0, 12);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(592, 94);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 1;
+            pictureBox1.TabStop = false;
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.groupBox1.Controls.Add(this.pictureBox1);
-            this.groupBox1.Controls.Add(this.menuStrip1);
-            this.groupBox1.Location = new System.Drawing.Point(4, -10);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1190, 119);
-            this.groupBox1.TabIndex = 5;
-            this.groupBox1.TabStop = false;
+            groupBox1.BackColor = SystemColors.ButtonHighlight;
+            groupBox1.Controls.Add(pictureBox1);
+            groupBox1.Controls.Add(menuStrip1);
+            groupBox1.Location = new Point(4, -10);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(1190, 119);
+            groupBox1.TabIndex = 5;
+            groupBox1.TabStop = false;
             // 
             // panel
             // 
-            this.panel.AutoScroll = true;
-            this.panel.AutoScrollMinSize = new System.Drawing.Size(50, 50);
-            this.panel.AutoSize = true;
-            this.panel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel.Location = new System.Drawing.Point(5, 111);
-            this.panel.Name = "panel";
-            this.panel.Size = new System.Drawing.Size(1159, 546);
-            this.panel.TabIndex = 6;
-            this.panel.Visible = false;
+            panel.AutoScroll = true;
+            panel.AutoScrollMinSize = new Size(50, 50);
+            panel.AutoSize = true;
+            panel.BorderStyle = BorderStyle.FixedSingle;
+            panel.Location = new Point(5, 111);
+            panel.Name = "panel";
+            panel.Size = new Size(1159, 546);
+            panel.TabIndex = 6;
+            panel.Visible = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1188, 658);
-            this.Controls.Add(this.panel);
-            this.Controls.Add(this.groupBox1);
-            this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Trang chủ";
-            this.Load += new System.EventHandler(this.Form1_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.groupBox1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            AutoScroll = true;
+            ClientSize = new Size(1188, 658);
+            Controls.Add(panel);
+            Controls.Add(groupBox1);
+            MainMenuStrip = menuStrip1;
+            Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Trang chủ";
+            Load += Form1_Load;
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            groupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)bindingSource1).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

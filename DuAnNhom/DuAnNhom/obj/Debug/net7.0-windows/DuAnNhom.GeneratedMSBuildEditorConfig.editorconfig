@@ -14,6 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DuAnNhom
-build_property.ProjectDir = D:\co4la-sj2024\DuAnNhom\DuAnNhom\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\GitHub\Git-Github-Studyjam-2024\co4la-sj2024\DuAnNhom\DuAnNhom\
