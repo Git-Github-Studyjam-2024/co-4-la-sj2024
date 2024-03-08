@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj": {}
+    "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj": {}
   },
   "projects": {
-    "D:\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj": {
+    "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj",
+        "projectUniqueName": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj",
         "projectName": "DuAnNhom",
-        "projectPath": "D:\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\obj\\",
+        "projectPath": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

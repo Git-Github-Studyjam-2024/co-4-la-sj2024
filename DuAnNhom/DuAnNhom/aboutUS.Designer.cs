@@ -457,6 +457,7 @@
             textBox7.ReadOnly = true;
             textBox7.Size = new Size(215, 18);
             textBox7.TabIndex = 0;
+            textBox7.Text = "https://www.facebook.com/thuylinh.nguyenhoang.739978/";
             // 
             // groupBox11
             // 
@@ -483,6 +484,7 @@
             textBox8.ReadOnly = true;
             textBox8.Size = new Size(215, 147);
             textBox8.TabIndex = 0;
+            textBox8.Text = "Năm: Hai\r\nNgành: CNTT\r\nSở thích: Xem phim cổ trang TQ, chơi game, ngủ\r\nTính cách: Sáng nắng, chiều mưa, trưa có sương mù\r\n\r\n";
             // 
             // groupBox12
             // 
@@ -507,11 +509,13 @@
             textBox9.ReadOnly = true;
             textBox9.Size = new Size(215, 18);
             textBox9.TabIndex = 0;
+            textBox9.Text = "Nguyễn Hoàng Thùy Linh";
             textBox9.TextAlign = HorizontalAlignment.Center;
             // 
             // pictureBox3
             // 
             pictureBox3.BackColor = Color.Gainsboro;
+            pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
             pictureBox3.Location = new Point(0, 29);
             pictureBox3.Margin = new Padding(3, 4, 3, 4);
             pictureBox3.Name = "pictureBox3";
