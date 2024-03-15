@@ -121,4 +121,7 @@
   <data name="z5222435485082_d216dd0458ad23320c04795ec7599dcd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\z5222435485082_d216dd0458ad23320c04795ec7599dcd.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="news_0015_help_center" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\news_0015_help_center.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
