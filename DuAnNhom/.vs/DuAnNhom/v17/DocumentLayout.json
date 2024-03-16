@@ -1,38 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\",
+  "WorkspaceRootPath": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\git-github-studyjam-2024\\co4la-sj2024\\duannhom\\duannhom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\co4la-sj2024\\duannhom\\duannhom\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\git-github-studyjam-2024\\co4la-sj2024\\duannhom\\duannhom\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\git-github-studyjam-2024\\co4la-sj2024\\duannhom\\duannhom\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\git-github-studyjam-2024\\co4la-sj2024\\duannhom\\duannhom\\contact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\co4la-sj2024\\duannhom\\duannhom\\contact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\contact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\git-github-studyjam-2024\\co4la-sj2024\\duannhom\\duannhom\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|D:\\GitHub\\co4la-sj2024\\DuAnNhom\\duannhom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\git-github-studyjam-2024\\co4la-sj2024\\duannhom\\duannhom\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\co4la-sj2024\\duannhom\\duannhom\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\git-github-studyjam-2024\\co4la-sj2024\\duannhom\\duannhom\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|D:\\GitHub\\co4la-sj2024\\DuAnNhom\\duannhom\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|d:\\github\\git-github-studyjam-2024\\co4la-sj2024\\duannhom\\duannhom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|D:\\GitHub\\co4la-sj2024\\DuAnNhom\\duannhom\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0760D9-21BC-4B84-A9D0-8630A681D786}|DuAnNhom\\DuAnNhom.csproj|solutionrelative:duannhom\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,100 +74,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "home.Designer.cs",
-              "DocumentMoniker": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\home.Designer.cs",
-              "RelativeDocumentMoniker": "DuAnNhom\\home.Designer.cs",
-              "ToolTip": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\home.Designer.cs",
-              "RelativeToolTip": "DuAnNhom\\home.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "DocumentIndex": 1,
+              "Title": "contact.Designer.cs",
+              "DocumentMoniker": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnNhom\\contact.Designer.cs",
+              "ToolTip": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.Designer.cs",
+              "RelativeToolTip": "DuAnNhom\\contact.Designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwMIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:49:25.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "home.cs",
-              "DocumentMoniker": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\home.cs",
-              "RelativeDocumentMoniker": "DuAnNhom\\home.cs",
-              "ToolTip": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\home.cs",
-              "RelativeToolTip": "DuAnNhom\\home.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:49:24.491Z"
+              "WhenOpened": "2024-03-15T06:17:00.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "contact.Designer.cs",
-              "DocumentMoniker": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.Designer.cs",
-              "RelativeDocumentMoniker": "DuAnNhom\\contact.Designer.cs",
-              "ToolTip": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.Designer.cs",
-              "RelativeToolTip": "DuAnNhom\\contact.Designer.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAIAAAASAAAA",
+              "Title": "contact.cs",
+              "DocumentMoniker": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.cs",
+              "RelativeDocumentMoniker": "DuAnNhom\\contact.cs",
+              "ToolTip": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.cs",
+              "RelativeToolTip": "DuAnNhom\\contact.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:49:22.655Z"
+              "WhenOpened": "2024-03-15T04:55:43.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "aboutUS.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\aboutUS.cs",
+              "RelativeDocumentMoniker": "DuAnNhom\\aboutUS.cs",
+              "ToolTip": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\aboutUS.cs [Design]",
+              "RelativeToolTip": "DuAnNhom\\aboutUS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:28:27.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\home.cs",
+              "RelativeDocumentMoniker": "DuAnNhom\\home.cs",
+              "ToolTip": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\home.cs [Design]",
+              "RelativeToolTip": "DuAnNhom\\home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:28:23.407Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "contact.cs",
-              "DocumentMoniker": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.cs",
-              "RelativeDocumentMoniker": "DuAnNhom\\contact.cs",
-              "ToolTip": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.cs",
-              "RelativeToolTip": "DuAnNhom\\contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\Form1.cs",
+              "RelativeDocumentMoniker": "DuAnNhom\\Form1.cs",
+              "ToolTip": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\Form1.cs [Design]",
+              "RelativeToolTip": "DuAnNhom\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:49:20.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "aboutUS.cs [Design]",
-              "DocumentMoniker": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\aboutUS.cs",
-              "RelativeDocumentMoniker": "DuAnNhom\\aboutUS.cs",
-              "ToolTip": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\aboutUS.cs [Design]",
-              "RelativeToolTip": "DuAnNhom\\aboutUS.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:48:35.964Z",
+              "WhenOpened": "2024-03-15T03:28:20.683Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\Form1.cs",
-              "RelativeDocumentMoniker": "DuAnNhom\\Form1.cs",
-              "ToolTip": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\Form1.cs [Design]",
-              "RelativeToolTip": "DuAnNhom\\Form1.cs [Design]",
+              "Title": "contact.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.cs",
+              "RelativeDocumentMoniker": "DuAnNhom\\contact.cs",
+              "ToolTip": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\contact.cs [Design]",
+              "RelativeToolTip": "DuAnNhom\\contact.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:48:36.07Z",
+              "WhenOpened": "2024-03-15T03:12:06.108Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\Form1.cs",
-              "RelativeDocumentMoniker": "DuAnNhom\\Form1.cs",
-              "ToolTip": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\Form1.cs",
-              "RelativeToolTip": "DuAnNhom\\Form1.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:48:36.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "DuAnNhom\\Form1.Designer.cs",
-              "ToolTip": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\Form1.Designer.cs",
-              "RelativeToolTip": "DuAnNhom\\Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:48:36.078Z",
-              "EditorCaption": ""
             }
           ]
         }

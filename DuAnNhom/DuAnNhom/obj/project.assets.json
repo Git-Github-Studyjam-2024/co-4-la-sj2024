@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj",
+      "projectUniqueName": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj",
       "projectName": "DuAnNhom",
-      "projectPath": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj",
+      "projectPath": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\DuAnNhom.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Git-Github-Studyjam-2024\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\obj\\",
+      "outputPath": "D:\\GitHub\\co4la-sj2024\\DuAnNhom\\DuAnNhom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
